@@ -1,2 +1,2 @@
 config:
-    application-dev.yml,version=1
+    info: application-dev.yml,version=1
